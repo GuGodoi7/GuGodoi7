@@ -1,8 +1,10 @@
 ### Olá, Eu sou o Gustavo 👋
+__________________________________________________________________________________________________________________________________________
 
 - 🔭 atualmente trabalho para evoluir
 - 🌱 Estudando Analise e Desenvolvimento de sistema
 - 😄 Pronomes: ele/dele
+__________________________________________________________________________________________________________________________________________
 
 ![GuGodoi7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GuGodoi7&show_icons=true&theme=highcontrast)
 
