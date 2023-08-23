@@ -8,7 +8,7 @@ ________________________________________________________________________________
 <div>
   <a href="https://github.com/GuGodoi7">
     
-  ![GuGodoi7 GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarm&show_icons=true&theme=highcontrast)
+  ![GuGodoi7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GuGodoi7&show_icons=true&theme=highcontrast)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGodoi7&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
