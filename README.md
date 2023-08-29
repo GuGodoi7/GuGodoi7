@@ -21,3 +21,10 @@ ________________________________________________________________________________
   <img align="center" alt="git" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
 </div>
 
+__________________________________________________________________________________________________________________________________________ 
+
+
+<div>
+  <a href = "mailto:gustavogodoi772@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/gustavo-godoi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
