@@ -6,6 +6,7 @@ ________________________________________________________________________________
 - 😄 Pronomes: ele/dele
 __________________________________________________________________________________________________________________________________________
 <div>
+  <img src="https://joaoprogramador.com.br/img/dev1.png" width="320px" min-width="320px" max-width="320px" align="right" >
   <a href="https://github.com/GuGodoi7">
     
   ![GuGodoi7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GuGodoi7&show_icons=true&theme=highcontrast)
