@@ -6,7 +6,6 @@ ________________________________________________________________________________
 - 😄 Pronomes: ele/dele
 __________________________________________________________________________________________________________________________________________
 <div>
-  <img src="https://joaoprogramador.com.br/img/dev1.png" width="320px" min-width="320px" max-width="320px" align="right" >
   <a href="https://github.com/GuGodoi7">
     
   ![GuGodoi7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GuGodoi7&show_icons=true&theme=highcontrast)
@@ -20,10 +19,10 @@ ________________________________________________________________________________
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+  <img src="https://joaoprogramador.com.br/img/dev1.png" width="220px" min-width="220px" max-width="220px" align="right" >
 </div>
 
-__________________________________________________________________________________________________________________________________________ 
-
+____________________________________________________________________________________________________________________
 
 <div>
   <a href = "mailto:gustavogodoi772@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
