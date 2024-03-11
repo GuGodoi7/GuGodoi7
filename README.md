@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Gustavo 👋
 __________________________________________________________________________________________________________________________________________
 
-- 🔭 Atualmente trabalho para evoluir
-- 🌱 Estudando Analise e Desenvolvimento de sistema
-- 😄 Pronomes: ele/dele
+- 🔭 Atualmente trabalho para evoluir.
+- 🌱 Estudando Analise e Desenvolvimento de sistema.
+- 😄 Pronomes: ele/dele.
 __________________________________________________________________________________________________________________________________________
 <div>
   <a href="https://github.com/GuGodoi7">
