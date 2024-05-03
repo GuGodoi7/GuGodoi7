@@ -25,7 +25,6 @@ ________________________________________________________________________________
   <img align="center" alt="Godoi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Godoi-git" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
   <img align="center" alt="Godoi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img src="https://joaoprogramador.com.br/img/dev1.png" width="220px" min-width="220px" max-width="220px" align="right" >
 </div>
 
 ____________________________________________________________________________________________________________________
